@@ -24,5 +24,11 @@
   "bugs": {
     "url": "https://github.com/ClayGminx/electron-worship-ppt/issues"
   },
-  "homepage": "https://github.com/ClayGminx/electron-worship-ppt#readme"
+  "homepage": "https://github.com/ClayGminx/electron-worship-ppt#readme",
+  "dependencies": {
+    "docxtemplater": "^3.37.2",
+    "pizzip": "^3.1.4",
+    "sequelize": "^6.31.1",
+    "sqlite3": "^5.1.6"
+  }
 }
