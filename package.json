@@ -1,0 +1,28 @@
+{
+  "name": "electron-worship-ppt",
+  "version": "1.0.0",
+  "description": "\u0016 用Electron开发自动制作敬拜PPT文件的工具 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClayGminx/electron-worship-ppt.git"
+  },
+  "keywords": [
+    "worship",
+    "ppt",
+    "pptx",
+    "node.js",
+    "electron",
+    "auto",
+    "template"
+  ],
+  "author": "Joseph Mark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClayGminx/electron-worship-ppt/issues"
+  },
+  "homepage": "https://github.com/ClayGminx/electron-worship-ppt#readme"
+}
